@@ -37,6 +37,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/EduardoBdeSouza/EduardoBdeSouza/output/snake.svg" alt="Snake animation" />
 
-
-
+###
