@@ -10,4 +10,4 @@ Meu nome é Eduardo Barbosa de Souza!
 
 eduardo.barbosa.souza17@escola.pr.gov.br
 
-![](https://media1.tenor.com/m/Ubbr3NQbIrgAAAAd/wow-hes-walk-hes-walk.gif)
+![](https://media1.tenor.com/m/exUaw4OYTLQAAAAC/uncanny-how-easy-it-is-rocket-fail.gif)
