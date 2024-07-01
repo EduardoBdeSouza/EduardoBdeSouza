@@ -1,85 +1,42 @@
-<div align="center">
-<img src="https://media1.tenor.com/m/exUaw4OYTLQAAAAC/uncanny-how-easy-it-is-rocket-fail.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Eu sou Eduardo, Um Youtuber e estudando programação 👨‍💻 em casa desde 2021 🚀</div>  
-  
-
-- 🔭Estou atualmente trabalhando em  jogos   
-  
-
-- 🌱 Estou atualmente estudando programação  
-  
-
-- ⚡ Curiosidade: Antes da SpaceX, o foguete Soyuz era a única maneira de ir para a ISS  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Habilidades  
-<div align="center">  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<div align="left">
+  <a href="https://www.youtube.com/@OSapoEnsina888" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="barbosaedu789@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-</td><td valign="top" width="33%">
+###
 
+<h1 align="left">Ei 👋 Como você está?</h1>
 
+###
 
-</td><td valign="top" width="33%">
+<p align="left">Meu nome é Eduardo e sou do Brasil</p>
 
+###
 
+<h2 align="left">Sobre mim</h2>
 
-</td></tr></table>  
+###
 
-<br/>  
+<p align="left">✨ Criando vídeos desde 2021<br>📚Atualmente estudando GML<br>🎯 Objetivos: Virar um desenvolvedor de jogos<br>🎲 Curiosidade: Mercúrio tem a órbita mais excêntrica ao redor do Sol.</p>
 
+###
 
-## Connect with me  
-<a href="https://www.youtube.com/user/https://www.youtube.com/@OSapoEnsina888" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/EduardoBdeSouza" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+<h2 align="left">Eu programo com</h2>
 
-<br/>  
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EduardoBdeSouza&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+###
 
-<br/>  
+<img src="https://raw.githubusercontent.com/EduardoBdeSouza/EduardoBdeSouza/output/snake.svg" alt="Snake animation" />
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=EduardoBdeSouza&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+###
